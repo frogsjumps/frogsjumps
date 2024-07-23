@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frogsjumps
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my understanding of the language C#
+- 🌱 I’m currently learning Python and Machine Learning.
+- 💞️ I’m looking to collaborate on my understanding of the language Python.
 - 📫 How to reach me: frogsjumps on discord
 - 😄 Pronouns: he/him
 
