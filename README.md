@@ -10,7 +10,7 @@
   [Check out my progress!](https://www.codedex.io/@avikumar76450/30-nites-of-code)  
   ![@avikumar76450 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=avikumar76450)
 
-### 📊 GITHUB STATS 📊
+###📊 GitHub STATS 📊
 --------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frogsjumps&theme=javascript-dark)](https://git.io/streak-stats)
 
