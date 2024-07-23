@@ -10,6 +10,22 @@
   [Check out my progress!](https://www.codedex.io/@avikumar76450/30-nites-of-code)  
   ![@avikumar76450 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=avikumar76450)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=frogsjumps&label=Profile%20Views&color=0&icon=0&pretty=false" />
 </a>
