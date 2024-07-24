@@ -32,6 +32,25 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=frogsjumps&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## tr
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frogsjumps&label=Profile%20views&color=0e75b6&style=flat" alt="frogsjumps" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frogsjumps" alt="frogsjumps" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogsjumps&show_icons=true&locale=en&layout=compact" alt="frogsjumps" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frogsjumps&show_icons=true&locale=en" alt="frogsjumps" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frogsjumps&" alt="frogsjumps" /></p>
+
+
 
 
 
