@@ -5,6 +5,9 @@
 - 📫 How to reach me: frogsjumps on discord
 - 😄 Pronouns: he/him
 
+  ![image](https://github.com/user-attachments/assets/e6a0f4ab-06ac-4f9e-91ef-4b97043bac12)
+
+
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@avikumar76450/30-nites-of-code)  
