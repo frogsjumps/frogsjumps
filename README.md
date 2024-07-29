@@ -5,8 +5,6 @@
 - 📫 How to reach me: frogsjumps on discord
 - 😄 Pronouns: he/him
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frogsjumps&bg_color=0d1117&color=009411&line=009411&point=20922d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@avikumar76450/30-nites-of-code)  
   ![@avikumar76450 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=avikumar76450)
@@ -22,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=frogsjumps&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frogsjumps&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frogsjumps&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frogsjumps&bg_color=0d1117&color=009411&line=009411&point=20922d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=frogsjumps&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
